@@ -1,0 +1,19 @@
+{
+  "name": "disco-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "."
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "test"
+  ],
+  "author": "Hopriko X lefrem",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
