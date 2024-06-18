@@ -14,6 +14,6 @@
   "author": "Hopriko X lefrem",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^11.4.2"
+    "discord.js": "^11.6.4"
   }
 }
